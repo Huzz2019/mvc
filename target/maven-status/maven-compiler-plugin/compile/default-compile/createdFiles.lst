@@ -1,0 +1,5 @@
+com/huzz/edu/dao/ResumeDao.class
+com/huzz/edu/pojo/Resume.class
+com/huzz/edu/controller/ResumeController.class
+com/huzz/edu/service/ResumeService.class
+com/huzz/edu/service/impl/ResumeServiceImpl.class
